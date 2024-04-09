@@ -11,7 +11,7 @@
 3. Evaluation different clustering algorithm.
 
 |Case|# Groups|Rand INdex|Normalized Mutual Information|V-measure|
-|-|-|
+|-|-|-|-|-|
 |K-means|3|0.68|0.27|0.27|
 |Hierarchical Clustering|3|0.66|0.22|0.22|
 |DBSCAN|10|0.44|1.65|1.65|
